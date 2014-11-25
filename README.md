@@ -12,6 +12,8 @@ Live demo [here](https://distribuclick.herokuapp.com).
 
 `npm run start`
 
+Open http://localhost:8080
+
 ## Developing
 
 Uses [Browserify](http://browserify.org).
