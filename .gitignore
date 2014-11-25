@@ -26,3 +26,7 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# Compiled bundle
+bundle.js
+.bundle.js
